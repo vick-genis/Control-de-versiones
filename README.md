@@ -1,7 +1,3 @@
 ## Control de versiones :+1:
-### LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
-- NOMBRE COMPLETO: GENIS CRUZ LOURDES VICTORIA
-- Nº de Cuenta: 420053978
-- GRUPO DE LABORATORIO: 01
-- GRUPO DE TEORÍA: 04
-- SEMESTRE 2024-2
+![Portada](https://github.com/vick-genis/Control-de-versiones/blob/main/Captura%20de%20pantalla%202024-02-23%20223623.png)
+
