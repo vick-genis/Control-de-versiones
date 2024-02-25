@@ -1,0 +1,23 @@
+﻿  Mesh.cpp
+  Shader.cpp
+  Window.cpp
+  practica2.cpp
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\PRAC02\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\PRAC02\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\PRAC02\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\PRAC02\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\PRAC02\practica2.cpp(17,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\PRAC02\practica2.cpp(361,17): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Generando código...
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\PRAC02\Window.cpp(74): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  LINK : no se encontró C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\Debug\PRAC02.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  PRAC02.vcxproj -> C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\p2\CHIDO\PRAC02\Debug\PRAC02.exe
