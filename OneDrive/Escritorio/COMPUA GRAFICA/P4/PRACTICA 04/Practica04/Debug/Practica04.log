@@ -1,0 +1,15 @@
+﻿  Window.cpp
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.cpp(90): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.cpp(211,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.cpp(212,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.cpp(216,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.cpp(217,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.cpp(219,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Practica04\Window.cpp(220,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica04.vcxproj -> C:\Users\jecal\OneDrive\Escritorio\COMPUA GRAFICA\P4\P4\Practica04\Debug\Practica04.exe
